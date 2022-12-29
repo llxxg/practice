@@ -1,0 +1,1 @@
+long double numberPow(unsigned long numberF, long long numberG);

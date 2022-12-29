@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\Student\Desktop\c++\prak2\Main\Main.cpp(31,27): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Student\Desktop\c++\prak2\Main\Main.cpp(32,24): warning C4305: инициализация: усечение из "double" в "float"
+  Main.vcxproj -> C:\Users\Student\Desktop\c++\prak2\Debug\Main.exe

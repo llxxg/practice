@@ -1,0 +1,16 @@
+﻿  Abs.cpp
+  Cos.cpp
+  Div.cpp
+  Fmod.cpp
+  Log.cpp
+  Main.cpp
+C:\Users\Student\Desktop\c++\prak2\Main\Main.cpp(31,27): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Student\Desktop\c++\prak2\Main\Main.cpp(32,24): warning C4305: инициализация: усечение из "double" в "float"
+  Mul.cpp
+  Pow.cpp
+  Sin.cpp
+  Sqrt.cpp
+  Sub.cpp
+  Sum.cpp
+  Создание кода...
+  Main.vcxproj -> C:\Users\Student\Desktop\c++\prak2\x64\Debug\28.12.2022.exe
